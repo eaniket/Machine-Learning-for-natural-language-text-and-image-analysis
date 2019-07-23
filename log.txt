@@ -118,3 +118,63 @@ Time taken: 2.937545 secs
 Input length: 288	Summary length: 73
 Stemming: 0	Short Forms: 0	Reduction Ratio: 38 percent	Model: 2 
 Time taken: 0.109350 secs
+
+Input length: 195883	Summary length: 136752
+Stemming: 0	Short Forms: 0	Reduction Ratio: 52 percent	Model: 2 
+Time taken: 177.673962 secs
+
+Input length: 87	Summary length: 75
+Stemming: 0	Short Forms: 0	Reduction Ratio: 64 percent	Model: 2 
+Time taken: 0.850311 secs
+
+Input length: 1	Summary length: 0
+Stemming: 0	Short Forms: 0	Reduction Ratio: 64 percent	Model: 2 
+Time taken: 0.000000 secs
+
+Input length: 2860	Summary length: 1920
+Stemming: 0	Short Forms: 0	Reduction Ratio: 64 percent	Model: 2 
+Time taken: 0.030009 secs
+
+Input length: 802	Summary length: 322
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 1 
+Time taken: 0.175031 secs
+
+Input length: 28280	Summary length: 12783
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 1 
+Time taken: 29.454620 secs
+
+Input length: 28280	Summary length: 10629
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 2.450486 secs
+
+Input length: 811	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.044978 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.005014 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.004957 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.004942 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.004944 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.004968 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.009996 secs
+
+Input length: 775	Summary length: 228
+Stemming: 0	Short Forms: 0	Reduction Ratio: 40 percent	Model: 2 
+Time taken: 0.004991 secs

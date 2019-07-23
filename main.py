@@ -256,7 +256,7 @@ def getSummary(): #actually calculate summary
 			text += " "
 	
 	if var6.get()==1:
-		r = Reduction() #object of class Red..
+		r = Reduction() #object of class Reduction..
 		reduced_text = r.reduce(text, red_ra)
 		op=' '.join(reduced_text)
 		global opTA
@@ -329,7 +329,7 @@ def showSW(): #display Stop Words in ip box
 		buttonSave.pack()
 		f.close()
 
-def showSF(): #to be done
+def showSF(): #to be dones
 	tkMessageBox.showinfo("Short Forms", "Instructions:\n"
 								"1. Open file /shortForm.py \n\n2. Define needed short form as key value pair, eg. Industry Grade : IG" 									"\n\n3.Save and close the file")
 							
@@ -343,13 +343,11 @@ def showHelp():
 
 def about():
 	tkMessageBox.showinfo("About us", "Version: 13.0.2\n"
-									"The Personalized Content Summary Generator"
-									"\n\nDeveloped by:\n"
-									"Varun Chitale\nAnandita Bodas\nChaitanya Deshpande\nUtkarsh Havle")
+									"The Personalized Content Summary Generator")
 
 def feedback():
 	tkMessageBox.showinfo("Feedback", "All rights reserved\n"
-									"\nInfo and updates at: https://github.com/varunchitale")
+									"\nInfo and updates at: https://github.com/khanzaifa37 & https://github.com/eaniket")
 def clear():
 	ipEntry.delete(1.0, END)
 	opEntry.delete(1.0, END)

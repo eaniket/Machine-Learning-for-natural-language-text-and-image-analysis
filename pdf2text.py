@@ -3,7 +3,7 @@ from io import StringIO
 import sys
 
 sys.path.insert(1,"/Users/us/pdfminer")
-
+import pdfminer
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
